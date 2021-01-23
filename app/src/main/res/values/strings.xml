@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="demo_date">22 Dec 2020</string>
+    <string name="demo_description">Light Rain</string>
+    <string name="demo_max_temperature">30º</string>
+    <string name="demo_min_temperature">15º</string>
+</resources>
